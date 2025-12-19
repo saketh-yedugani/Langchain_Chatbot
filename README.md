@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-red?logo=openai&logoColor=white)](https://platform.openai.com/)
 [![Groq](https://img.shields.io/badge/Groq-API-purple?logo=groq&logoColor=white)](https://www.groq.com/)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/yourrepo)](https://github.com/yourusername/yourrepo)
+
 
 A collection of chatbot projects demonstrating conversational AI, vector databases, and retrieval-augmented generation (RAG).
 
