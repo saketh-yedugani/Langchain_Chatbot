@@ -54,7 +54,7 @@ A collection of chatbot projects demonstrating conversational AI, vector databas
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/yourrepo.git
+git clone [https://github.com/yourusername/yourrepo.git](https://github.com/saketh-yedugani/Langchain_Chatbot.git)
 
 # Navigate to the repo
 cd yourrepo
